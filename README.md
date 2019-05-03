@@ -1,2 +1,1 @@
-# Concepts
-Useful Computer Programming Concepts
+http://latentflip.com/imperative-vs-declarative
